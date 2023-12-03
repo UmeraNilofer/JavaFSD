@@ -12,9 +12,9 @@ public class overloadMethod {
 
 	public static void main(String[] args) {
 		
-		overloadMethod ob=new overloadMethod();
-	       ob.area(10,12);
-	       ob.area(5);  
+		overloadMethod od=new overloadMethod();
+	       od.area(10,12);
+	       od.area(5);  
 	}
 
 }
